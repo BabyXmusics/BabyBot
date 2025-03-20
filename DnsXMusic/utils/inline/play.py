@@ -69,14 +69,14 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/BabyMusicUpdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="𝖢𝗅𝗈𝗌𝖾"
           ),
          
         
             InlineKeyboardButton(
-                text="𝐒υρρσɾƚ", url=f"https://t.me/the_cute_boy_op"),
+                text="𝐒υρρσɾƚ", url=f"https://t.me/best_friends_chatting_grpz0"),
         ],
     ]
     return buttons
@@ -86,14 +86,14 @@ def stream_markup(_, videoid, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/BabyMusicUpdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="𝖢𝗅𝗈𝗌𝖾"
           ),
          
         
             InlineKeyboardButton(
-                text="𝐒υρρσɾƚ", url=f"https://t.me/the_cute_boy_op"),
+                text="𝐒υρρσɾƚ", url=f"https://t.me/best_friends_chatting_grpz0"),
         ],
     ]
     return buttons
@@ -127,14 +127,14 @@ def telegram_markup_timer(_, chat_id, played, dur):
         ],
           [
             InlineKeyboardButton(
-                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/BabyMusicUpdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="𝖢𝗅𝗈𝗌𝖾"
           ),
          
         
             InlineKeyboardButton(
-                text="𝐒υρρσɾƚ", url=f"https://t.me/the_cute_boy_op"),
+                text="𝐒υρρσɾƚ", url=f"https://t.me/best_friends_chatting_grpz0"),
         ],
     ]
     return buttons
@@ -144,14 +144,14 @@ def telegram_markup(_, chat_id):
     buttons = [
           [
             InlineKeyboardButton(
-                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/BabyMusicupdate"
+                text="𝐔ρ𝖽αтєѕ", url=f"https://t.me/NeoUpdatess"
             ),
             InlineKeyboardButton(text=_["CLOSEMENU_BUTTON"], callback_data="𝖢𝗅𝗈𝗌𝖾"
           ),
          
         
             InlineKeyboardButton(
-                text="𝐒υρρσɾƚ", url=f"https://t.me/the_cute_boy_op"),
+                text="𝐒υρρσɾƚ", url=f"https://t.me/best_friends_chatting_grpz0"),
         ],
     ]
     return buttons
