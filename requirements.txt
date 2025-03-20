@@ -16,6 +16,7 @@ pytube
 unidecode
 pykeyboard
 py-tgcalls==2.0.6
+ntgcalls==1.2.3
 python-dotenv
 pyyaml
 requests
